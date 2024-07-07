@@ -74,7 +74,7 @@ body{
 }
 
 .box:hover{
-    background-color: #FF2E63;
+    background-color: #a1a79c;
 }
 
 #play-again{
@@ -89,7 +89,8 @@ body{
 
 #play-again:hover{
     padding: 10px 40px;
-    background-color: #08D9D6;
+    background-color: transparent;
+    border: #000 solid;
     color: #000;
 }
 footer p{
